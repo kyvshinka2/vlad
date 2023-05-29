@@ -1,0 +1,27 @@
+/* oops nothing here */
+
+.text-white {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.recepts_block {
+    padding-top: 50px;
+}
+
+.recipe_item {
+    padding-top: 40px;
+    align-items: center;
+    padding-left: 15%;
+    width: 950px;
+}
+
+.recipe_info {
+    float: right;
+    width: 25vw;
+    text-align: left;
+}
+
+.recipe_text_p {
+    font-family: Arial Black, Helvetica, sans-serif;
+}
